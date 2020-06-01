@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping ext="py" type="Native" />
-      <mapping pattern="yx-ADPlay" type="PLAIN_TEXT" />
       <mapping pattern="IfFlutterActivity.java" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_bak" type="PLAIN_TEXT" />
+      <mapping pattern="yx-ADPlay" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
